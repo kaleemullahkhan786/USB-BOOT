@@ -34,7 +34,7 @@ sudo apt install clamav
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/kaleemullahkhan786/Usb-Boot-tool.git
+    git clone https://github.com/kaleemullahkhan786/Usb-Boot.git
     cd Usb-Boot
     ```
 
