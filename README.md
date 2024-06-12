@@ -1,6 +1,6 @@
 # USB-Boot Tool
 
-![Banner](https://imgur.com/a/aGkalpJ)
+![Banner](https://imgur.com/vDVqMPS)
 
 ## Description
 The USB-Boot Tool is a powerful utility designed to simplify the process of creating bootable USB drives and managing USB devices. It provides an easy-to-use interface for writing OS images to USB devices and removing viruses from USB drives, leveraging the capabilities of `dd` and `clamscan` tools.
