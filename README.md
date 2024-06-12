@@ -1,4 +1,3 @@
-```markdown
 # USB-Boot Tool
 
 ![Banner](https://imgur.com/a/aGkalpJ)
